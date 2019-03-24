@@ -4,7 +4,7 @@ Each pkg has a path and name associated with it*/
 
 package main
 
-import "fmt" //It's a preprocessor command to include pkg "fmt"
+import "fmt" //It is a preprocessor command to include pkg fmt
 
 func main() { //program execution start from here
     fmt.Println("Hello, World!")
